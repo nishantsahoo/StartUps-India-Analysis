@@ -12,3 +12,5 @@ Tasks -
 2. Classify Industry Verticals into Parent Verticals with less than 50 unique values
 3. Answer the basic stats questions
 4. Make a new sheet with States as parent values of Cities
+5. Correlation between Amount in USD and State wise wealth
+6. Sentiment analysis of remarks of the transactions/investments
